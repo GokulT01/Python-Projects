@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\Administrator\\Desktop\\PYTHON_CA3",
+        "app_url": "https://gt001.shinyapps.io/quakes-shiny/",
+        "app_id": 13560716,
+        "app_guid": null,
+        "title": "quakes-shiny",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
